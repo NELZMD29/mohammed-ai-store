@@ -1,8 +1,6 @@
 {
-  "versionCode": 69,
+  "versionCode": 68,
   "versionName": "1.0",
-  "apkUrl": "https://github.com/NELZMD29/mohammed-ai-store/releases/download/v69/mohammed-ai-store.apk",
-  "changelog": "• نظام تحديث أذكى: فحص أسرع وأكثر ثباتاً\n• تنبيهات تحديث أوضح مع شرح الجديد داخل التنبيه نفسه",
-  "changelog_ar": "• نظام تحديث أذكى: فحص أسرع وأكثر ثباتاً\n• تنبيهات تحديث أوضح مع شرح الجديد داخل التنبيه نفسه",
-  "force_update": false
+  "apkUrl": "https://github.com/NELZMD29/mohammed-ai-store/releases/download/v68/mohammed-ai-store.apk",
+  "changelog": "☀️🌙 ثيم نهاري جديد مع حركة دائرية عند التبديل + إصلاحات"
 }
