@@ -1,1 +1,10 @@
-{"apkUrl":"https://github.com/NELZMD29/mohammed-ai-store/releases/download/v70/mohammed-ai-store.apk","changelog":"• نظام تحديث أذكى: فحص أسرع وأكثر ثباتاً\n• تنبيهات تحديث أوضح مع شرح الجديد داخل التنبيه نفسه","changelog_ar":"• نظام تحديث أذكى: فحص أسرع وأكثر ثباتاً\n• تنبيهات تحديث أوضح مع شرح الجديد داخل التنبيه نفسه","force_update":false,"versionCode":70,"versionName":"70"}
+{
+  "versionCode": 71,
+  "versionName": "7.1.0",
+  "apkUrl": "https://github.com/NELZMD29/mohammed-ai-store/releases/download/v71/mohammed-ai-store.apk",
+  "page_url": "https://github.com/NELZMD29/mohammed-ai-store/releases/tag/v71",
+  "force_update": false,
+  "changelog_ar": "• حوار تحديث جديد: تحميل مباشر داخل التطبيق مع شريط تقدّم وبدائل عند الفشل\n• زر «فحص التحديثات» في الإعدادات — افحص بنفسك وشاهد النتيجة فوراً\n• اسم إصدار واضح جديد: 7.1.0",
+  "changelog_en": "• New update dialog: direct in-app download with a progress bar and fallbacks\n• \"Check for updates\" button in Settings — check yourself and see the result instantly\n• Clear new version name: 7.1.0",
+  "notes": "v71: Khor-style update dialog already in; new manual check-for-updates button in Settings with a visible result; semantic version name 7.1.0"
+}
